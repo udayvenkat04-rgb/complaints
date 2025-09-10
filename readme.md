@@ -1,4 +1,4 @@
-Complaint Management Portal
+#Complaint Management Portal
 This is a simple, single-page web application for managing and tracking customer complaints. Users can submit new complaints, and the system automatically assigns a unique tracking ID. Complainants can then use this ID to check the real-time status of their submission.
 
 Features
